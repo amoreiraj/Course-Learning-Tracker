@@ -1,5 +1,10 @@
 # 🎓 Course Learning Calendar - Smart Excel Tracker
 
+![Last Commit](https://img.shields.io/github/last-commit/amoreiraj/Course-Learning-Tracker)
+![Repo Size](https://img.shields.io/github/repo-size/amoreiraj/Course-Learning-Tracker)
+![Top Language](https://img.shields.io/github/languages/top/amoreiraj/Course-Learning-Tracker)
+![Stars](https://img.shields.io/github/stars/amoreiraj/Course-Learning-Tracker?style=social)
+
 This project is an Excel-based tool designed to help you manage and track your progress across multiple online courses. It's perfect for self-paced learners who want a clean, automated view of their deadlines and course statuses.
 
 ## 📁 Features
